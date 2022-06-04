@@ -1,0 +1,392 @@
+.mainnav {
+    background-color: white;
+    width: 70px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+
+}
+
+body {
+    margin: auto;
+    background-color: rgb(240 242 245);
+}
+
+.nav1 {
+    background-color: white;
+    height: 30vh;
+    width: 70px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+
+
+}
+
+.nav2 {
+    background-color: rgb(240 242 245);
+    height: 43vh;
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 83px;
+
+
+}
+
+.profile {
+    height: 39px;
+    width: 37px;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-top: 14px;
+    cursor: pointer;
+    border: 2px rgba(128, 128, 128, 0.651) solid;
+
+}
+#i1:hover{
+    background-color: rgba(128, 128, 128, 0.144) ;
+}
+#i2:hover{
+    background-color: rgba(128, 128, 128, 0.144) ;
+}
+#i3:hover{
+    background-color: rgba(128, 128, 128, 0.144) ;
+}#i4:hover{
+    background-color: rgba(128, 128, 128, 0.144) ;
+}
+#i5:hover{
+    background-color: rgba(128, 128, 128, 0.144) ;
+}
+#i6:hover{
+    background-color: rgba(128, 128, 128, 0.144) ;
+}
+#i7:hover{
+    background-color: rgba(128, 128, 128, 0.144) ;
+}
+#i8:hover{
+    background-color: rgba(128, 128, 128, 0.144) ;
+}
+#i9:hover{
+    background-color: rgba(128, 128, 128, 0.144) ;
+}
+
+
+
+#i1 {
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: x-large;
+    
+
+}
+
+#i2 {
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: x-large;
+}
+
+#i3 {
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: x-large;
+}
+
+#i4 {
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: x-large;
+}
+
+#i5 {
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: x-large;
+}
+
+#i6 {
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: x-large;
+}
+
+#i7 {
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: x-large;
+}
+
+#i8 {
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: x-large;
+}
+
+#i9 {
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: x-large;
+}
+
+.screen {
+    background-color: rgb(240 242 245);
+    width: 100%;
+    height: 100vh;
+    margin-left: 70px;
+    border: 1px rgba(128, 128, 128, 0.144) solid;
+}
+
+.fblogo {
+    color: #1877F2;
+    font-family: inherit;
+    font-family: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    font-size: xx-large;
+    font-weight: 1000;
+    position: absolute;
+    top: 17px;
+    left: 22px;
+}
+
+.nav3 {
+    display: flex;
+    flex-direction: column;
+}
+
+.link {
+    text-decoration: none;
+    font-family: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+
+.head {
+    font-family: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    margin: auto;
+    margin-bottom: 30px;
+    font-weight: bold;
+
+}
+
+.navbox {
+    padding-top: 81px;
+    padding-left: 23px
+}
+
+.linkbox {
+
+    padding-top: 10PX;
+    border-radius: 10px;
+    width: 250px;
+    height: 35px;
+    padding-left: 15px;
+    cursor: pointer;
+
+}
+
+.linkbox:hover {
+    background-color: rgba(128, 128, 128, 0.144);
+}
+
+.navbox2 {
+    position: fixed;
+}
+
+.fa-solid {
+    cursor: pointer;
+
+}
+
+.fa-regular {
+    cursor: pointer;
+
+}
+
+.footer {
+    text-decoration: none;
+    color: rgb(96, 96, 96);
+
+}
+
+.footer1 {
+    height: 39px;
+    position: absolute;
+    width: 322px;
+    top: 92vh;
+    left: 3vh;
+}
+
+.center {
+    background-color: white;
+    width: 80vh;
+    position: absolute;
+    top: 20px;
+    left: 70vh;
+    border-radius: 10px;
+    border: 1px solid rgba(128, 128, 128, 0.651);
+}
+
+.left {
+    position: absolute;
+    left: 80%;
+    top: 48%;
+
+}
+
+.leftcon {
+    text-decoration: none;
+    font-family: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif;
+    color: black;
+    font-size: 17px;
+    font-weight: lighter;
+
+}
+
+.contact {
+    display: flex;
+    width: 35vh;
+    justify-content: space-between;
+
+}
+
+.contacticon {
+    padding-top: 10px;
+    margin-left: 15px;
+    color: gray;
+}
+
+.nav4 {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.name {
+    text-decoration: none;
+    font-family: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+
+
+
+}
+
+.namebox:hover {
+    background-color: rgba(128, 128, 128, 0.144);
+    color: rgb(25, 14, 14);
+
+}
+
+.namebox {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    display: flex;
+    cursor: pointer;
+
+}
+
+.contactprofile {
+
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+#spon {
+    position: absolute;
+    right: 26vh;
+    font-weight: bold;
+}
+
+.ad {
+    position: absolute;
+    left: 80%;
+    top: 7vh;
+    cursor: pointer;
+}
+.ad:hover{
+    background-color: rgba(128, 128, 128, 0.144);
+}
+
+.wall {
+    width: 124px;
+    height: 95px;
+    margin-right: 15px;
+    border-radius: 20px;
+
+}
+
+.words {}
+
+.flex {
+    display: flex;
+    display: flex;
+    width: 56vh;
+    height: 18vh;
+
+}
+.postimage{
+    width: 80vh;
+
+
+}
+.center{
+
+}
+.likencomment{
+    display: flex;
+    
+    
+}
+.like{
+    width: 50%;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 10px;
+    height: 40px;
+    padding-top: 15px;
+    font-size: 18px;
+
+}
+.like:hover{
+    background-color: rgba(128, 128, 128, 0.144);
+}
+.pro{
+    display: flex;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.time{
+    display: flex;
+    flex-direction: column;
+}
+h5{
+    margin: 0px;
+    color: rgba(128, 128, 128, 0.925);
+    
+}
+.contactprofile1 {
+
+    width: 37px;
+    height: 37px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.posttext{
+    padding-left: 10px;
+    margin: auto;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
